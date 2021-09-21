@@ -13,4 +13,9 @@ public class MainApplication {
 		
 		System.in.read();
 	}
+	
+	public void test(){
+		
+		
+	}
 }
