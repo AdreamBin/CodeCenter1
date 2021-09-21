@@ -14,7 +14,7 @@ public class MainApplication {
 		System.in.read();
 	}
 	
-	public void test(){
+	public void test01(){
 		
 		
 	}
